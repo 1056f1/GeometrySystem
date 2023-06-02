@@ -11,7 +11,7 @@ public class GeometrySystem extends JFrame {
     private static final long serialVersionUID = 1L;
 
     private JPanel panel_1 = new JPanel();
-   
+    private JPanel panel_2 = new JPanel();
     private JLabel label = new JLabel("小学数学几何图形生成系统");
     private JButton btn_line = new JButton("线段");
     private JButton btn_angle = new JButton("角");
